@@ -1,0 +1,9 @@
+
+{
+  "type": "UpdateCustomer",
+  "data": {
+    "tenantId": "408a5661-d41d-4c94-9dc8-13c733da37e2",
+    "id": "18a91623-8c7d-44c6-a014-7521da88bf2c",
+    "name": "Schultz and Sons"
+  }
+}

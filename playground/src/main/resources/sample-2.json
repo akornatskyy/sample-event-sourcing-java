@@ -1,0 +1,8 @@
+
+{
+  "type": "ActivateCustomer",
+  "data": {
+    "tenantId": "408a5661-d41d-4c94-9dc8-13c733da37e2",
+    "id": "f1594dbb-d084-4abe-ab5f-22769d996b97"
+  }
+}
