@@ -1,5 +1,7 @@
 # Sample Event Sourcing Java
 
+[![tests](https://github.com/akornatskyy/sample-event-sourcing-java/actions/workflows/tests.yaml/badge.svg)](https://github.com/akornatskyy/sample-event-sourcing-java/actions/workflows/tests.yaml)
+
 ## Setup
 
 Create *quickstart-events* topic.
