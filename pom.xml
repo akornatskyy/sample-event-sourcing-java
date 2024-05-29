@@ -50,7 +50,7 @@
       <dependency>
         <groupId>software.amazon.glue</groupId>
         <artifactId>schema-registry-serde</artifactId>
-        <version>1.1.19</version>
+        <version>1.1.20</version>
       </dependency>
       <dependency>
         <groupId>org.postgresql</groupId>
@@ -60,7 +60,7 @@
       <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-webflux</artifactId>
-        <version>3.2.5</version>
+        <version>3.3.0</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
