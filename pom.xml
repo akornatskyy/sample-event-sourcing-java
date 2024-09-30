@@ -40,7 +40,7 @@
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
-        <version>2.18.0-rc1</version>
+        <version>2.18.0</version>
       </dependency>
       <dependency>
         <groupId>org.apache.kafka</groupId>
@@ -60,7 +60,7 @@
       <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-webflux</artifactId>
-        <version>3.3.3</version>
+        <version>3.3.4</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
